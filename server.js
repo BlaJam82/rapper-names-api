@@ -13,6 +13,11 @@ const rappers = {
     "birthName": "Chancelor Bennett",
     "birthLocation": "Chicago, Illinois",
   },
+  "dr. dre": {
+    "age": 60,
+    "birthName": "Andre Romell Young",
+    "birthLocation": "Compton, California",
+  },
   "unknown": {
     "age": 0,
     "birthName": "unknown",
