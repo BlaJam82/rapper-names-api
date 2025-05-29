@@ -20,6 +20,8 @@ const rappers = {
     "age": 60,
     "birthName": "Andre Romell Young",
     "birthLocation": "Compton, California",
+    "imageUrl":
+      "https://classicalbumsundays.com/wp-content/uploads/2017/12/3907b4fd5e4b4abb8260a9c0cf6ad550-12.jpg",
   },
   "unknown": {
     "age": 0,
